@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ComuniQC</string>
+    <string name="bem_vindo">Bem Vindo !</string>
+    <string name="bem_vindo_desc">Comunique-se com seus amigos e familiares.</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="cadastrar_usuario">Não tem usuário? CadastreC aqui !</string>
+</resources>
